@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>nl.rabobank.testpackageJava</groupId>
+  <artifactId>testpackageJava</artifactId>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
+
+  <name>testpackageJava</name>
+  <description>Test Java package that prints to the console when used</description>
+  <url>https://github.com/markbrabo/rabobank-testpackageJava</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>markbrabo</id>
+      <name>Mark Brabo</name>
+      <email>mark.bregman@rabobank.nl</email>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:https://github.com/markbrabo/rabobank-testpackageJava.git</connection>
+    <developerConnection>scm:git:git@github.com:markbrabo/rabobank-testpackageJava.git</developerConnection>
+    <url>https://github.com/markbrabo/rabobank-testpackageJava</url>
+  </scm>
+
+  <build>
+    <sourceDirectory>src/main/java</sourceDirectory>
+  </build>
+</project>
