@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>nl.rabobank.testpackageJava</groupId>
-  <artifactId>testpackageJava</artifactId>
+  <artifactId>rabobank-testpackageJava</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>testpackageJava</name>
+  <name>rabobank-testpackageJava</name>
   <description>Test Java package that prints to the console when used</description>
   <url>https://github.com/markbrabo/rabobank-testpackageJava</url>
 
